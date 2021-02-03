@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">AppleADay</string>
+    <string name="title">Apple A Day</string>
+    <string name="subtitle">An Everyday Health Tracker</string>
+    <string name="start">Get Started</string>
+    <string name="info">Looking for information about COVID-19?\n Click here!</string>
+    <string name="help">\?</string>
+    <string name="findLocation">Find a hospital or COVID-19 testing location near you.</string>
+    <string name="link1">CDC Symptoms of COVID-19</string>
+    <string name="link2">WHO Advice for the public</string>
+    <string name="hospital">Nearby Hospitals</string>
+    <string name="testingloc">Nearby COVID-19 Testing</string>
+    <string-array name="symptomArray">
+        <item>Abdominal Pain</item>
+        <item>Anxiety</item>
+        <item>Bleeding</item>
+        <item>Bloating</item>
+        <item>Breathing Difficulties</item>
+        <item>Chills</item>
+        <item>Convulsions</item>
+        <item>Cough</item>
+        <item>Dizziness</item>
+        <item>Fatigue</item>
+        <item>Fever</item>
+        <item>Heartburn</item>
+        <item>Headache</item>
+        <item>Indigestion</item>
+        <item>Irritability</item>
+        <item>Nausea</item>
+        <item>Rash</item>
+        <item>Runny Nose</item>
+        <item>Sore Throat</item>
+        <item>Sweatss</item>
+        <item>Swollen Lymph Nodes</item>
+        <item>Tiredness</item>
+        <item>Upset Stomach</item>
+        <item>Vomiting</item>
+        <item>Weakness</item>
+    </string-array>
+</resources>
