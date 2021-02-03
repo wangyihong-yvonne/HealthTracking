@@ -1,4 +1,4 @@
-# AppleADay
+# WeWell
 NOTE: Requires a Google Maps API key to work - place your API key where the code says INSERT_API_KEY_HERE.
 
 A health tracker application, currently in the testing phase of being released on the google play store.
